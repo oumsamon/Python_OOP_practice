@@ -47,7 +47,7 @@ class Word():
 
 ## Wondering how to start?
 
-Look back at the JavaScript hangman assignments [here](hangman-oop-hints.md) to get some ideas about how that might look.  
+<!-- Look back at the JavaScript hangman assignments [here](hangman-oop-hints.md) to get some ideas about how that might look.   -->
 
 But bear in mind you're building a console game that asks for user input and waits vs a browser game based on (innately asynchronous) user events, so some of the overall game structure might be slightly different.  But in many ways that could make it easier!
 
