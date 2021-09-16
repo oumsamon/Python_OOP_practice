@@ -34,3 +34,15 @@ def count_sheeps(sheep):
     return(true_count)
 #   # TODO May the force be with you
 #   pass
+
+array1 = [True,  True,  True,  False,
+          True,  True,  True,  True ,
+          True,  False, True,  False,
+          True,  False, False, True ,
+          True,  True,  True,  True ,
+          False, False, True,  True ];
+              
+test.assert_equals(result := count_sheeps(array1), 17, "There are 17 sheeps in total, not %s" % result)
+Test Results:
+Test Passed
+You have passed all of the tests! :)
